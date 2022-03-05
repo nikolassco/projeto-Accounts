@@ -11,13 +11,15 @@ Sistema baseado em inputs no terminal e nas respostas dadas pelo usuário.
 ## Layout aberto no VSCode
 ![Projeto](https://github.com/nikolassco/projeto-Accounts/blob/main/assets/layout.png) 
 
-# Mais detalhes sobre
+## Mais detalhes sobre
 Esse projeto utiliza o terminal para "brincar" e mostrar funcionalidades como: 
 * Criar uma conta: Criar um novo usuario/conta.
 * Consultar saldo: Consultar saldo da conta acessada.
 * Depositar: Adicionar saldo.
 * Sacar: Tirar valor do saldo.
 * Sair: Fechar a interação e encerrar aplicação.
+
+Tecnologia: JavaScript
 
 # Como executar o projeto
 
